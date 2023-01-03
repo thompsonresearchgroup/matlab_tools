@@ -5,8 +5,8 @@ cubeplot.mat - an example that uses cuberead and xyzplot to plot the molecular o
 
 cuberead.mat - reads a cubefile into Matlab
 
-moldraw.py  - draws a molecule in matplotlib
+xyzplot.mat  - draws a molecule from a xyz file in Matlab
 
-set_axes_equal.py - sets square axes in matplotlib
+magplot.mat - draws a molecule from a xyz file with additional column with atom-localized magnetic momements in Matlab  
 
-shapes.py   - draws geometric objects in matplotlib
+GEN_FUNCS - contains files for investigating generalized functions.
